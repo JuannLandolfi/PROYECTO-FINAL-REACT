@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.titulo-principal{
+    color: #ffffff;
+}
+
+.tituloLink{
+    font-size: 13px;
+    color: #2967a1;
+    background-color: white;
+    border-radius: 0.7rem;
+    box-shadow: 0 0 10px rgb(26, 25, 25);
+}
+
+.div-form-hist{
+    color: rgb(194, 194, 216);
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+}

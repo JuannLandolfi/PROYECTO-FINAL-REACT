@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div-contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+}
+
+
+.tituloFormulario{
+    color: #EFF5F5;
+    font-size: 33px;
+    text-shadow: 0 0 30px rgb(19, 18, 18);
+}
+
+.form-contenedor{
+    padding: 2rem;
+    height: 400px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    gap: 1rem;
+    background-color: #fcfcfc;
+    box-shadow: 0 0 20px rgb(0, 0, 0.2);
+    border-radius: 15px;
+}
+
+.input-css{
+    padding: 4px;
+    font-size: 15px;
+    border-radius: 8px;
+    border: 1px solid  #2967a1;
+    box-shadow: 0 0 10px rgb(26, 25, 25);
+    outline: none;
+    background-color: transparent;
+}
+
+
+.fechaNacimiento{
+    color: rgb(37, 37, 37);
+    font-size: 1rem;
+}
+
+.inputFecha{
+    text-align: center;
+    font-size: 1rem;    
+    box-shadow: 0 0 10px rgb(26, 25, 25);
+    color: black;
+}
+
+#enviarFormulario{
+    height: 40px;
+    background-color: #2967a1;
+    color: white;
+}
+
+::placeholder{
+    color: rgba(0, 0, 0, 0.623);
+}
+
+
+
+

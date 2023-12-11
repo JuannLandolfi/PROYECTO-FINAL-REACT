@@ -1,0 +1,18 @@
+.div-historial{
+    margin: auto;
+    max-width: 900px;
+    background-color: white;
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    padding: 10px;
+    border-color: whitesmoke;
+    box-shadow: 26px 28px 15px -8px rgba(0,0,0,0.15);
+    border-radius: 0.7rem;
+    text-align: center;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 3rem;
+    width: 900px;
+}

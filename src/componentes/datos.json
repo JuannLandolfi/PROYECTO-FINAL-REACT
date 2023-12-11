@@ -1,0 +1,79 @@
+[
+    {
+        "categoria": "bicicleta",
+        "marca": "Montaña",
+        "factor": 1.09
+    },
+    {
+        "categoria": "bicicleta",
+        "tipo": "Ruta",
+        "factor": 1.05
+    },
+    {
+        "categoria": "bicicleta",
+        "tipo": "Hibrida",
+        "factor": 1.02
+    },
+    {
+        "categoria": "bicicleta",
+        "tipo": "Plegable",
+        "factor": 1.19
+    },
+    {
+        "categoria": "bicicleta",
+        "tipo": "Electrica",
+        "factor": 2.39
+    },
+    {
+        "categoria": "bicicleta",
+        "tipo": "Bmx",
+        "factor": 1.41
+    },
+    {
+        "categoria": "marca",
+        "tipo": "Olmo",
+        "factor": 1.92
+    },
+    {
+        "categoria": "marca",
+        "tipo": "Vairo",
+        "factor": 1.13
+    },
+    {
+        "categoria": "marca",
+        "tipo": "Venzo",
+        "factor": 1.04
+    },
+    {
+        "categoria": "marca",
+        "tipo": "Trek",
+        "factor": 1.29
+    },
+    {
+        "categoria": "marca",
+        "tipo": "Specialized",
+        "factor": 1.00
+    },
+
+    {
+        "categoria": "rodado",
+        "tipo": "24''",
+        "factor": 1.05
+    },
+    {
+        "categoria": "rodado",
+        "tipo": "26''",
+        "factor": 1.06
+    },
+    {
+        "categoria": "rodado",
+        "tipo": "27.5''",
+        "factor": 1.07
+    },
+    {
+        "categoria": "rodado",
+        "tipo": "29''",
+        "factor": 1.08
+    }
+
+]
